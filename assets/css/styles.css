@@ -13,9 +13,9 @@
         Teal: hsl(174, 63%, 62%)
         Night scathz: hsl(350, 43%, 43%)
   */
-  --first-hue: 174;
-  --sat: 63%;
-  --lig: 62%;
+  --first-hue: 54;
+  --sat: 70%;
+  --lig: 66%;
   --second-hue: 219;
   --first-color: hsl(var(--first-hue), var(--sat), var(--lig));
   --first-color-alt: hsl(var(--first-hue), var(--sat),71%); /* -4% */
