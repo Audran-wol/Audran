@@ -10,9 +10,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="![audran_terminal4](https://github.com/Audran-wol/Audran/assets/91311465/c7276797-7228-4a6d-8f84-465a0cb883ee" alt="project-screenshot" width="400" height="400/">
+![audran_terminal4](https://github.com/Audran-wol/Audran/assets/91311465/c7276797-7228-4a6d-8f84-465a0cb883ee)
 
-<img src="https://github.com/Audran-wol/Audran/assets/91311465/c7276797-7228-4a6d-8f84-465a0cb883ee" alt="project-screenshot" width="400" height="400/">
+![audran_terminal4](https://github.com/Audran-wol/Audran/assets/91311465/c7276797-7228-4a6d-8f84-465a0cb883ee)
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -47,6 +47,4 @@ This project is licensed under the Audran@copyright
 <h2>💖Like my work?</h2>
 
 Enjoy my work? Your support helps me create more! Thank you!” 😊<p>https://paypal.me/AudranWol?country.x=LS&amp;locale.x=fr_XC</p>
-![audran_terminal3](https://github.com/Audran-wol/Audran/assets/91311465/4507c74c-f4e4-4ab5-a620-acefda6d2b87)
-![audran_terminal5](https://github.com/Audran-wol/Audran/assets/91311465/7f8c1384-60b1-4ec2-b1f1-f9998552c602)
-![audran_terminal4](https://github.com/Audran-wol/Audran/assets/91311465/c7276797-7228-4a6d-8f84-465a0cb883ee)
+
