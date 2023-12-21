@@ -12,9 +12,11 @@
 
 ![audran_terminal4](https://github.com/Audran-wol/Audran/assets/91311465/c7276797-7228-4a6d-8f84-465a0cb883ee)
 
-![audran_terminal4](https://github.com/Audran-wol/Audran/assets/91311465/c7276797-7228-4a6d-8f84-465a0cb883ee)
+![audran_terminal5](https://github.com/Audran-wol/Audran/assets/91311465/efc918ee-8355-4d6d-95ae-74977b7500da)
 
 <h2>🛠️ Installation Steps:</h2>
+
+
 
 <p>1. Git Clone the repo</p>
 
