@@ -52,7 +52,7 @@ linkWork.forEach(l => l.addEventListener('click', activeWork))
 let swiperTestimonial = new Swiper(".testimonial__container", {
     spaceBetween: 24,
     loop: true,
-    grapCursor: true,
+    grabCursor: true,
     pagination: {
       el: ".swiper-pagination",
       clickable: true,
@@ -65,6 +65,10 @@ let swiperTestimonial = new Swiper(".testimonial__container", {
           slidesPerView: 2,
           spaceBetween: 48,
         }
+    },
+    autoplay: {
+        delay: 3000, // 3 seconds delay between slides
+        disableOnInteraction: false, // Continue autoplay after user interactions
     },
 });
 
